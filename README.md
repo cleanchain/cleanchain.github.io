@@ -1,2 +1,1 @@
-# cleanchain.github.io
-Cleanchain repo homepage
+This is the repo for [Cleanchain](https://cleanchain.github.io) homepage.
