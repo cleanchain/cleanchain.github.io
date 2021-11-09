@@ -5,3 +5,17 @@ In this digital age, blockchain technology has the power to gather, filter and t
 ![](future_color.svg)
 
 A blockchain is a distributed database: a digital register that publicly stores encoded informations on the internet. It is a very powerful and versatile tool, able to be adapted for different solutions in different environments and [our goal is to improve transparency and efficiency](goal.md) of the food chain industry through its use.
+
+
+
+
+## Who are we
+
+We are [three students](contacts.md) from the [University of Pisa](https://www.unipi.it/index.php/english) and, together with other european universities, we are currently working on this project for the [EUAcceL 2021](https://eit-hei.eu/assets/pdf/fact-sheets/EIT-Project-Fact-Sheet-EUAcceL.pdf) event, organized by the European Institute of tecnology and funded by the European Union.
+
+
+
+
+## Work in progress
+
+Stay tuned for the updates.
