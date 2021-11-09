@@ -11,7 +11,7 @@ A blockchain is a distributed database: a digital register that publicly stores 
 
 ## Who are we
 
-We are three students from the [University of Pisa](https://www.unipi.it/index.php/english) currently working on this project for the [EUAcceL 2021](https://eit-hei.eu/assets/pdf/fact-sheets/EIT-Project-Fact-Sheet-EUAcceL.pdf) event, organized by the European Institute of tecnology.
+We are 3 students from the [University of Pisa](https://www.unipi.it/index.php/english) currently working on this project for the [EUAcceL 2021](https://eit-hei.eu/assets/pdf/fact-sheets/EIT-Project-Fact-Sheet-EUAcceL.pdf) event, organized by the European Institute of tecnology.
 
 - Project email: [`chain.clean@protonmail.com`](mailto:chain.clean@protonmail.com)
 - [Team members contacts](contacts.md)
