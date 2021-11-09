@@ -1,7 +1,5 @@
 # Contacts
 
-- Email: [`chain.clean@protonmail.com`](mailto:chain.clean@protonmail.com)
-
 
 
 
