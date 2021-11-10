@@ -16,6 +16,7 @@
 ## Emanuele Torrisi
 
 - Email: [`e.torrisi1@studenti.unipi.it`](mailto:e.torrisi1@studenti.unipi.it)
+- Github: [`https://github.com/Aegelix`](https://github.com/Aegelix)
 
 
 
@@ -23,3 +24,4 @@
 ## Lorenzo Scarpelli
 
 - Email: [`l.scarpelli1@studenti.unipi.it`](mailto:l.scarpelli1@studenti.unipi.it)
+- Github: [`https://github.com/Lollosca`](https://github.com/Lollosca)
