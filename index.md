@@ -19,7 +19,7 @@ We are 3 students from the [University of Pisa](https://www.unipi.it/index.php/e
 
 
 
-## Work in progress <img src="leaf2.png" width="20"/>
+## Work in progress <img src="leaf2.png" height="25"/>
 
 - [Preliminary presentation EUAcceL](cleanchain_teamballo.pdf)
 
