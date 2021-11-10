@@ -22,4 +22,5 @@ We are 3 students from the [University of Pisa](https://www.unipi.it/index.php/e
 ## Work in progress
 
 - [Preliminary presentation EUAcceL](cleanchain_teamballo.pdf)
-- Stay tuned for the updates.
+
+Stay tuned for further updates.
