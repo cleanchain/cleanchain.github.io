@@ -21,6 +21,6 @@ We are 3 students from the [University of Pisa](https://www.unipi.it/index.php/e
 
 ## Work in progress
 
-- [Preliminary presentation EUAcceL](cleanchain_teamballo.pdf)
+This all thing is still in alpha stage but we are putting together all the pieces for a well made final cut. Stay tuned for further updates!
 
-<!-- Stay tuned for further updates. -->
+- [Preliminary presentation EUAcceL](cleanchain_teamballo.pdf)
