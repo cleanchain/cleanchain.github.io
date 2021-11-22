@@ -23,5 +23,5 @@ We are 3 students from the [University of Pisa](https://www.unipi.it/index.php/e
 
 This all thing is still in alpha stage but we are putting together all the pieces for a well made final cut. Stay tuned for further updates!
 
-- [Preliminary presentation EUAcceL](presentation.md)
+- [Preliminary presentation](presentation.md)
 - [Architecture drafts](arch.md)
