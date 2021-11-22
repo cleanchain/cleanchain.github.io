@@ -10,9 +10,6 @@
 - Qual'è il mercato?
     - Tutto l'agroalimentare
     - Estensione ad altri campi?
-
----
-
 - Chi sono i clienti?
     - Tutte le aziende coinvolte nella filiera di produzione e distribuzione
 - Chi sono gli utilizzatori?
