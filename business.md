@@ -1,4 +1,4 @@
-# Business
+# Business model
 
 - Per quale bisogno?
     - Tracciabilità e trasparenza dei prodotti con possibilità di controlli incrociati per garantirne la genuinità
