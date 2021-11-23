@@ -26,3 +26,4 @@ This all thing is still in alpha stage but we are putting together all the piece
 - [Preliminary presentation](presentation.md)
 - [Architecture drafts](arch.md)
 - [Business model notes (ita)](business.md)
+- [Lean canvas](lean.md)
