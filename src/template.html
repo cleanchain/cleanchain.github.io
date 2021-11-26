@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cleanchain - {{files.0.name}}</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+  <link rel="shortcut icon" type="image/x-icon" href="docs/favicon.ico">
+  <style type="text/css">
+    @import url(https://fonts.google.com/specimen/Ubuntu);
+    @import url(https://fonts.google.com/specimen/Ubuntu+Mono);
+    body {
+        font-family: "Ubuntu", sans-serif;
+        font-weight: 300;
+        color: #404040;
+        background: #f8f8f2;
+    }
+    h1 {
+        font-family: "Ubuntu", sans-serif;
+        font-weight: 400;
+        text-align: left;
+    }
+    h2 {
+        font-family: "Ubuntu", sans-serif;
+        font-weight: 300;
+    }
+    h3 {
+        font-family: "Ubuntu", sans-serif;
+        font-weight: 300;
+    }
+    textarea {
+        font-family: "Ubuntu Mono", monospace;
+        font-weight: 300;
+    }
+    code {
+        font-family: "Ubuntu Mono", monospace;
+        font-weight: 300;
+    }
+    a:link, a:visited {
+        color: #993300;
+        text-decoration: none;
+    }
+    a:hover, a:active {
+        color: #352e7e;
+        text-decoration: none;
+    }
+</style>
+</head>
+
+{{#if pdf}}
+<body class="stackedit stackedit--pdf">
+{{else}}
+<body class="stackedit">
+{{/if}}
+  <div class="stackedit__html">{{{files.0.content.html}}}</div>
+</body>
+
+</html>
