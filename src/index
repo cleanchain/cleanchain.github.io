@@ -1,0 +1,27 @@
+﻿# Cleanchain <a href="https://github.com/cleanchain" title="github repo"><img align="right" src="docs/cleanchain.svg" width="37" /></a>
+
+In this digital age, blockchain technology has the power to gather, filter and trace digital informations in order to create the right trust through a secure and decentralised net.
+
+A blockchain is a distributed database: a digital register that publicly stores encoded informations on the internet. It is a very powerful and versatile tool, able to be adapted for different solutions in different environments and [our goal](goal) is to improve transparency and efficiency of the food chain industry through its use.
+
+
+
+
+## Who are we
+
+We are 3 students from the [University of Pisa](https://www.unipi.it/index.php/english) currently working on this project for *EUAcceL 2021* event, organized by the European Institute of tecnology.
+
+- Project github:  [`github.com/cleanchain`](https://github.com/cleanchain)
+- Project email: [`chain.clean@protonmail.com`](mailto:chain.clean@protonmail.com)
+- Project members: [team contacts](contacts)
+
+
+
+
+## Work in progress
+
+This all thing is still in alpha stage but we are putting together all the pieces for a well made final cut. Stay tuned for further updates!
+
+- [Preliminary presentation](docs/cleanchain_teamballo.pdf)
+- [Architecture drafts](docs/arch)
+- [Lean model canvas](docs/lean_canvas.pdf)
